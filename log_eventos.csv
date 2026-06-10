@@ -1,0 +1,13 @@
+timestamp,tipo,modulo,descricao
+2026-06-01 06:00:00,INFO,ENERGIA,Sistema de paineis solares inicializado com sucesso
+2026-06-01 08:30:00,INFO,COMUNICACAO,Contato estabelecido com estacao terrestre - sinal forte
+2026-06-01 10:15:00,ALERTA,LABORATORIO,Sensor de pressao do laboratorio reportou leitura oscilante
+2026-06-01 12:00:00,INFO,HABITAT,Ciclo de oxigenio calibrado - niveis normais
+2026-06-01 14:45:00,ALERTA,ENERGIA,Inicio do periodo de eclipse - geracao solar em queda
+2026-06-01 16:30:00,CRITICO,COMUNICACAO,Degradacao de sinal detectada - possivel interferencia solar
+2026-06-01 18:00:00,INFO,ENERGIA,Modo de economia ativado - sistemas nao essenciais desligados
+2026-06-01 20:10:00,REINICIALIZACAO,LABORATORIO,Modulo de laboratorio reiniciado apos falha de sensor
+2026-06-01 22:30:00,CRITICO,ENERGIA,Reserva de bateria abaixo de 50% - alerta preventivo ativado
+2026-06-02 00:00:00,CRITICO,ENERGIA,Reserva de bateria abaixo de 30% - protocolo de emergencia
+2026-06-02 02:15:00,ALERTA,SUPORTE_VIDA,Consumo de oxigenio aumentado - possivel vazamento menor
+2026-06-02 04:00:00,CRITICO,ENERGIA,Reserva critica - apenas sistemas essenciais operando

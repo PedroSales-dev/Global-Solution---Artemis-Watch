@@ -42,9 +42,9 @@ O **ARTEMIS-WATCH** é um sistema de monitoramento operacional desenvolvido para
 
 | Campo | |
 |:---|:---|
-| **Aluno** | [SEU NOME] |
-| **RM** | RM[SEU RM] |
-| **Curso** | Engenharia de Software — FIAP |
+| **Aluno** | Pedro Sales |
+| **RM** | RM572709 |
+| **Curso** | Ciência da Computação — FIAP |
 | **Período** | 1.º Semestre · Fases 1, 2 e 3 |
 | **Entrega** | Global Solution · Junho de 2026 |
 
@@ -265,15 +265,6 @@ A previsão influencia diretamente o sistema de recomendações: qualquer horizo
 
 ---
 
-<br>
-
-## Vídeo de Apresentação
-
-[![YouTube](https://img.shields.io/badge/Assistir_no_YouTube-Não_Listado-FF0000?style=flat-square&logo=youtube&logoColor=white)](INSERIR_LINK_AQUI)
-
-<br>
-
----
 
 <br>
 

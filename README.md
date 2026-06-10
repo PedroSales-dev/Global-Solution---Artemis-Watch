@@ -40,8 +40,6 @@ O **ARTEMIS-WATCH** é um sistema de monitoramento operacional desenvolvido para
 
 <br>
 
-| Campo | |
-|:---|:---|
 | **Aluno** | Pedro Sales |
 | **RM** | RM572709 |
 | **Curso** | Ciência da Computação — FIAP |
@@ -109,7 +107,7 @@ global-solution/
 
 ```bash
 # Clone o repositório
-git clone <URL_DO_REPOSITORIO>
+git clone https://github.com/PedroSales-dev/Global-Solution---Artemis-Watch/tree/main
 cd global-solution
 
 # Execute — Python puro, sem dependências externas
@@ -284,6 +282,6 @@ Mais do que entregar código funcional, o projeto exigiu pensar como engenheiro:
 
 <br>
 
-*FIAP · Engenharia de Software · Global Solution 2026*
+*FIAP · Ciência da computação · Global Solution 2026*
 
 </div>
